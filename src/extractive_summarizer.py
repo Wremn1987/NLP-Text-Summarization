@@ -54,7 +54,7 @@ if __name__ == '__main__':
         Capabilities of AI include: successful understanding of human speech, competing at the highest level in "
         "strategic game systems (such as chess and Go), autonomous cars, intelligent routing in content delivery "
         "networks, and military simulations. AI is one of the most important technologies of the 21st century. "
-        "It has the potential to solve many of the world\'s most pressing problems, from climate change to disease. "
+        "It has the potential to solve many of the world's most pressing problems, from climate change to disease. "
         "However, it also poses significant risks, such as job displacement and the potential for autonomous weapons. "
         "It is therefore crucial to develop AI responsibly and ethically."
     )
